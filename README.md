@@ -1,6 +1,6 @@
-# xylophoneapp
+# Xylophone App
 
-Xylophone Flutter app.
+Xylophone Flutter app that creates sound on tapping.
 
 ## Getting Started
 
