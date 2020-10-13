@@ -1,6 +1,6 @@
 # Xylophone App
 
-Xylophone Flutter app that creates sound on tapping. Also Dynamic theme change during runtime.
+Xylophone Flutter app that creates sound on tapping. Also Dynamic theme change during runtime using Provider.
 
 ### Dependencies used
 
